@@ -1,0 +1,7 @@
+langchain
+chromadb
+llama-index
+unstructured
+tqdm
+gradio
+requests

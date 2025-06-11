@@ -1,0 +1,4 @@
+- Phishing : attaque visant à soutirer des informations personnelles via un faux site ou un faux email.
+- Ransomware : malware qui chiffre les fichiers d’un système et demande une rançon.
+- SQL Injection : insertion de requêtes SQL malicieuses pour compromettre la base de données.
+- DDoS : attaque par déni de service distribué, surchargeant un serveur avec trop de requêtes.
