@@ -15,8 +15,8 @@ Un chatbot intelligent spécialisé dans la cybersécurité, capable d'expliquer
 
  Technologies utilisées
 
-| Backend               | Frontend       | IA                                          |
-|                       |                |
+| Backend               | Frontend       | IA                                          
+
 | FastAPI + Pydantic    | React + Axios  | Gemini 1.5 Flash (via `google.generativeai`) |
 
 ---
