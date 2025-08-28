@@ -6,7 +6,6 @@ Un chatbot intelligent spécialisé dans la cybersécurité, capable d'expliquer
 
  Fonctionnalités
 
-- Répond aux questions sur la cybersécurité
 - Détecte les intentions suspectes (ex : attaques de phishing)
 - Interface moderne, responsive et colorée
 - Déploiement simple en local
